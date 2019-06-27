@@ -40,6 +40,23 @@ print(grocery_list[2])
 # first_item = mylist[0]
 # print(first_item)
 
-mylist_length = len(mylist)
-print(mylist_length)
-print(en([1, 2, 3, 4]))
+#mylist_length = len(mylist)
+#print(mylist_length)
+#print(en([1, 2, 3, 4]))
+
+## Functions print() input() range()
+
+def my_print_func():
+    print("Sup, Bro")
+
+my_print_func()
+## def name()
+def square(num):
+    return num ** 2
+
+print(square(4))
+
+
+def add(a, b):
+    return a + b
+print(add(10, 20))

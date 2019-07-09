@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(55, 82, 12);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(145, 127, 30)
+}
+
+h3 {
+    color: rgb(133, 43, 73)
+}
+
+body {
+    background-color: #a88baf ;
+  }
+  .module {
+    float: left;
+  }
+
